@@ -6,6 +6,13 @@ import tensorflow as tf
 import tensorflow_datasets as tfds
 from sklearn.preprocessing import OneHotEncoder
 from sklearn.preprocessing import LabelEncoder
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.pipeline import Pipeline
+import wget
+import numpy as np
+from tensorflow.keras import layers
+import random
 
 # Check for GPU
 !nvidia-smi -L
