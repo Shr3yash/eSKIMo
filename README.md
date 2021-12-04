@@ -159,7 +159,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the (coming soon!) [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -176,7 +176,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/DrCybernotix/BlackLabelizer/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -212,9 +212,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@your_twitter](https://twitter.com/DrCybernotix) - 12shreyashh@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/your_username/repo_name](https://github.com/DrCybernotix/BlackLabelizer)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -240,16 +240,16 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/DrCybernotix/BlackLabelizer.svg?style=for-the-badge
+[contributors-url]: https://github.com/DrCybernotix/BlackLabelizer/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/DrCybernotix/BlackLabelizer.svg?style=for-the-badge
+[forks-url]: https://github.com/DrCybernotix/BlackLabelizer/network/members
+[stars-shield]: https://img.shields.io/github/stars/DrCybernotix/BlackLabelizer.svg?style=for-the-badge
+[stars-url]: https://github.com/DrCybernotix/BlackLabelizer/stargazers
+[issues-shield]: https://img.shields.io/github/issues/DrCybernotix/BlackLabelizer?style=for-the-badge
+[issues-url]: https://github.com/DrCybernotix/BlackLabelizer/issues
+[license-shield]: https://img.shields.io/github/license/DrCybernotix/BlackLabelizer.svg?style=for-the-badge
+[license-url]: https://github.com/DrCybernotix/BlackLabelizer/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://in.linkedin.com/in/shreyash-bhatkar-5bb904194
 [product-screenshot]: images/screenshot.png
