@@ -19,12 +19,14 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+<div align="center">
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+</div>
 
 
 
@@ -212,9 +214,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/DrCybernotix) - 12shreyashh@gmail.com
+Your Name - [@DrCybernotix](https://twitter.com/DrCybernotix) - 12shreyashh@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/DrCybernotix/BlackLabelizer)
+Project Link: [https://github.com/DrCybernotix/BlackLabelizer](https://github.com/DrCybernotix/BlackLabelizer)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
