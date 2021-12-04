@@ -36,7 +36,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/DrCybernotix/BlackLabelizer/blob/main/DemoImages/LABELIZERLogo.png">
-    <img src="DemoImages/LABELIZERLogo.png" alt="Logo" width="180" height="180">
+    <img src="DemoImages/LABELIZERLogo.png" alt="Logo" width="280" height="280">
   </a>
 
   <h3 align="center">Black Labelizer</h3>
