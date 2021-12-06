@@ -88,9 +88,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Whilst learning tensorflow I stumbled upon the concept of embedding which I found quite interesting and taking the motivation through it, here I tried to create an NLP model that categorises abstract statements according to their function (e.g., objective, techniques, results, etc.) so that researchers can diversify through the literature and dig further in depth when needed.
+  Whilst learning tensorflow I stumbled upon the concept of embedding which I found quite interesting and taking the motivation through it, here I tried to create an NLP model that categorises abstract statements according to their function (e.g., objective, techniques, results, etc.) so that researchers can diversify through the literature and dig further in depth when needed.
 
 The problem statement :
 * The number of RCT papers published is growing, and those without organised abstracts can be difficult to read, slowing researchers' progress through the literature.
@@ -110,7 +109,7 @@ Follow through to get started!
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section is the list of any major frameworks/libraries used to bootstrap the subsequent project. Leave any add-ons/plugins for the acknowledgements section. Here are a few assets to work with : 
 
 * [Tensorflow](https://nextjs.org/)
 * [Scikitlearn](https://reactjs.org/)
@@ -176,7 +175,7 @@ System requirements
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Useful examples of how the model actually works and what does it do when provided costum inputs
 
 _For more examples, please refer to the (coming soon!) [Documentation](https://example.com)_
 
@@ -191,9 +190,7 @@ _For more examples, please refer to the (coming soon!) [Documentation](https://e
 - [x] Add back to top links
 - [ ] Add Additional Templates w/ Examples
 - [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+
 
 See the [open issues](https://github.com/DrCybernotix/BlackLabelizer/issues) for a full list of proposed features (and known issues).
 
@@ -204,7 +201,7 @@ See the [open issues](https://github.com/DrCybernotix/BlackLabelizer/issues) for
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create! Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
@@ -231,9 +228,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@DrCybernotix](https://twitter.com/DrCybernotix) - 12shreyashh@gmail.com
+Twitter/Email - [@DrCybernotix](https://twitter.com/DrCybernotix) - 12shreyashh@gmail.com
 
-Project Link: [https://github.com/DrCybernotix/BlackLabelizer](https://github.com/DrCybernotix/BlackLabelizer)
+Project Link: [BlackLabelizer](https://github.com/DrCybernotix/BlackLabelizer)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -245,12 +242,10 @@ Project Link: [https://github.com/DrCybernotix/BlackLabelizer](https://github.co
 The list of resources I found helpful whilst makingg this project and would like to give credit to :
 
 * [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Choosing the Estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 * [Malven's Grid Cheatsheet](https://grid.malven.co/)
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
