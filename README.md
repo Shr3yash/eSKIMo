@@ -90,16 +90,19 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Whilst learning tensorflow I stumbled upon the concept of embedding which I found quite interesting and taking the motivation through it, here I tried to create an NLP model that categorises abstract statements according to their function (e.g., objective, techniques, results, etc.) so that researchers can diversify through the literature and dig further in depth when needed.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+The problem statement :
+* The number of RCT papers published is growing, and those without organised abstracts can be difficult to read, slowing researchers' progress through the literature.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Solution : 
+* Creation of an NLP model that will do teh work of diversification of the input texts we provide and output the labels those suggest the intuitive information behind those chunks of literature.
 
-Use the `BLANK_README.md` to get started.
+Precisely, when we implement this in our own devices We'll be recreating and replicating better version of the deep learning model used in PubMed 200k RCT: a Dataset for Sequential Sentence Classification in Medical Abstracts, which was published in the year 2017.
+
+Link of the paper for reference : <a href="https://arxiv.org/abs/1710.06071" target="_blank">PubMed 200k RCT</a>
+
+Follow through to get started!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -109,14 +112,14 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Tensorflow](https://nextjs.org/)
+* [Scikitlearn](https://reactjs.org/)
+* [Keras](https://vuejs.org/)
+* [Python3](https://svelte.dev/)
+* [numpy](https://laravel.com)
+* [Matplotlib](https://getbootstrap.com)
+* [Pandas(DF)](https://jquery.com)
+* [Local GPU(For optimum acceleration)](https://angular.io/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -124,13 +127,16 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Following are the instructions on setting up your project locally.
+To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
+* pip 
+  ```sh
+  python -m pip install --upgrade pip
+  ```
 * npm
   ```sh
   npm install npm@latest -g
@@ -138,21 +144,30 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+Install TensorFlow with pip
+  TensorFlow 2 packages are available
+  * tensorflow —Latest stable release with CPU and GPU support (Ubuntu and Windows)
+  * tf-nightly —Preview build (unstable). Ubuntu and Windows include GPU support.
+  Older versions of TensorFlow
+For TensorFlow 1.x, CPU and GPU packages are separate:
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+  * tensorflow==1.15 —Release for CPU-only
+  * tensorflow-gpu==1.15 —Release with GPU support (Ubuntu and Windows)
+System requirements
+  * Python 3.7–3.9
+  * Python 3.9 support requires TensorFlow 2.5 or later.
+  * Python 3.8 support requires TensorFlow 2.2 or later.
+
+
+1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/DrCybernotix/BlackLabelizer.git
    ```
-3. Install NPM packages
+2. Install packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
