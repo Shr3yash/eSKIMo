@@ -161,6 +161,16 @@ System requirements
 1. Clone the repo
    ```sh
    git clone https://github.com/DrCybernotix/BlackLabelizer.git
+  
+   ```
+   
+   After cloning just open the project folder in any IDE, (Recommend: Pycharm or Visual Studio)
+   Run the test.py first or either you can do this from the terminal.
+   
+   For terminal :
+   ```sh
+   cd (paste the directory location where you inported the repository)
+   python test py
    ```
 2. Install packages
    ```sh
