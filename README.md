@@ -45,14 +45,14 @@
   <p align="center">
     A text labelizing tool build using TensorFlow!
     <br />
-    <a href="https://github.com/eSKIMo/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/eSKIMo/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/eSKIMo/README.md">View Demo</a>
+    <a href="https://github.com/eSKIMo/blob/main/README.md">View Demo</a>
     ·
-    <a href="https://github.com/eSKIMo/issues">Report Bug</a>
+    <a href="https://github.com/eSKIMo/blob/main/issues">Report Bug</a>
     ·
-    <a href="https://github.com/eSKIMo/issues">Request Feature</a>
+    <a href="https://github.com/eSKIMo/blob/main/issues">Request Feature</a>
   </p>
 </div>
 
