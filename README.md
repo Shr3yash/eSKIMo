@@ -36,7 +36,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/DrCybernotix/BlackLabelizer/blob/main/DemoImages/eSKIMo_Logo.png">
+  <a href="https://github.com/DrCybernotix/eSKIMo/blob/main/DemoImages/eSKIMo_Logo.png">
     <img src="DemoImages/eSKIMo_Logo.png" alt="Logo">
   </a>
 
@@ -45,14 +45,14 @@
   <p align="center">
     A text labelizing tool build using TensorFlow!
     <br />
-    <a href="https://github.com/BlackLabelizer/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/eSKIMo/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/BlackLabelizer/README.md">View Demo</a>
+    <a href="https://github.com/eSKIMo/README.md">View Demo</a>
     ·
-    <a href="https://github.com/BlackLabelizer/issues">Report Bug</a>
+    <a href="https://github.com/eSKIMo/issues">Report Bug</a>
     ·
-    <a href="https://github.com/BlackLabelizer/issues">Request Feature</a>
+    <a href="https://github.com/eSKIMo/issues">Request Feature</a>
   </p>
 </div>
 
