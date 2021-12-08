@@ -1,5 +1,5 @@
 <div align="center">
- #eSKIMo
+ eSKIMo
 
 <div id="top"></div>
 <!--
