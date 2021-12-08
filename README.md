@@ -39,7 +39,7 @@
     <img src="DemoImages/eSKIMo_Logo.png" alt="Logo">
   </a>
 
-  <h3 align="center">Black Labelizer</h3>
+  <h3 align="center">The Skimmer&Labelizer</h3>
 
   <p align="center">
     A text labelizing tool build using TensorFlow!
