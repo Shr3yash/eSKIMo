@@ -30,9 +30,20 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
   
  </div>
+    .crop {
+        width: 1200px;
+        height: 350px;
+        overflow: hidden;
+    }
 
-
-
+   .crop img {
+        width: 1361px;
+        height: 446px;
+        margin: -161px 0 0 -146px;
+    }
+     <div class="crop">
+        <img src="https://github.com/DrCybernotix/eSKIMo/blob/main/DemoImages/eSKIMo_Logo.png" alt="FamilyGuy">
+    </div>
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
