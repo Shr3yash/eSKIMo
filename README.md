@@ -1,3 +1,4 @@
+<div align="center">
 # eSKIMo
 
 <div id="top"></div>
@@ -28,7 +29,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
   
-
+ </div>
 
 
 
