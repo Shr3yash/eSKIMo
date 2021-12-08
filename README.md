@@ -50,9 +50,9 @@
     <br />
     <a href="https://github.com/eSKIMo/blob/main/README.md">View Demo</a>
     ·
-    <a href="https://github.com/eSKIMo/blob/main/issues">Report Bug</a>
+    <a href="https://github.com/DrCybernotix/eSKIMo/issues">Report Bug</a>
     ·
-    <a href="https://github.com/eSKIMo/blob/main/issues">Request Feature</a>
+    <a href="https://github.com/DrCybernotix/eSKIMo/issues">Request Feature</a>
   </p>
 </div>
 
