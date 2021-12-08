@@ -1,4 +1,4 @@
-# BlackLabelizer
+# eSKIMo
 
 <div id="top"></div>
 <!--
@@ -35,8 +35,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/DrCybernotix/BlackLabelizer/blob/main/DemoImages/LABELIZERLogo.png">
-    <img src="DemoImages/LABELIZERLogo.png" alt="Logo" width="280" height="280">
+  <a href="https://github.com/DrCybernotix/BlackLabelizer/blob/main/DemoImages/eSKIMo_Logo.png">
+    <img src="DemoImages/eSKIMo_Logo.png" alt="Logo" width="280" height="280">
   </a>
 
   <h3 align="center">Black Labelizer</h3>
