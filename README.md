@@ -1,4 +1,4 @@
-<div align="center">
+
  eSKIMo
 
 <div id="top"></div>
