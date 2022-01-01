@@ -110,14 +110,15 @@ Follow through to get started!
 
 This section is the list of any major frameworks/libraries used to bootstrap the subsequent project. Leave any add-ons/plugins for the acknowledgements section. Here are a few assets to work with : 
 
-* [Tensorflow](https://nextjs.org/)
-* [Scikitlearn](https://reactjs.org/)
-* [Keras](https://vuejs.org/)
-* [Python3](https://svelte.dev/)
-* [numpy](https://laravel.com)
-* [Matplotlib](https://getbootstrap.com)
-* [Pandas(DF)](https://jquery.com)
-* [Local GPU(For optimum acceleration)](https://angular.io/)
+* [ReactJS](https://reactjs.org/)
+* [Tensorflow](https://tensorflow.org/)
+* [Scikitlearn](https://scikit-learn.org/)
+* [Keras](https://keras.io/)
+* [Python3](https://www.python.org/downloads/)
+* [numpy](https://numpy.org/)
+* [Matplotlib](https://matplotlib.org)
+* [Pandas(DF)](https://pandas.com)
+* [Local GPU(For optimum acceleration)](https://research.google.com/colaboratory/local-runtimes.html)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
