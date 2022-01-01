@@ -276,4 +276,4 @@ The list of resources I found helpful whilst makingg this project and would like
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://in.linkedin.com/in/shreyash-bhatkar-5bb904194
 [product-screenshot]: images/screenshot.png
-[web]: https://img.shields.io/website?down_color=red&down_message=offline&up_color=blue&up_message=Click%20for%20Live%20Demo&url=https%3A%2F%2Feskimobyshrysh.netlify.app%2Findex.html
+[web]: https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=blue&up_message=Click%20for%20Live%20Demo&url=https%3A%2F%2Feskimobyshrysh.netlify.app%2Findex.html
