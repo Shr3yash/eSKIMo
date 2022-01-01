@@ -28,7 +28,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Webpage][web]][web]
+[![Webpage][web]][web-url]
 
   
 <!-- PROJECT LOGO -->
@@ -277,3 +277,4 @@ The list of resources I found helpful whilst makingg this project and would like
 [linkedin-url]: https://in.linkedin.com/in/shreyash-bhatkar-5bb904194
 [product-screenshot]: images/screenshot.png
 [web]: https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=blue&up_message=Click%20for%20Live%20Demo&url=https%3A%2F%2Feskimobyshrysh.netlify.app%2Findex.html
+[web-url]: https://eskimobyshrysh.netlify.app/index.html
