@@ -270,7 +270,7 @@ The list of resources I found helpful whilst makingg this project and would like
 [issues-shield]: https://img.shields.io/github/issues/DrCybernotix/BlackLabelizer?style=for-the-badge
 [issues-url]: https://github.com/DrCybernotix/BlackLabelizer/issues
 [license-shield]: https://img.shields.io/github/license/DrCybernotix/BlackLabelizer.svg?style=for-the-badge
-[license-url]: https://github.com/DrCybernotix/BlackLabelizer/blob/master/LICENSE.txt
+[license-url]: https://github.com/DrCybernotix/eSKIMo/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://in.linkedin.com/in/shreyash-bhatkar-5bb904194
 [product-screenshot]: images/screenshot.png
