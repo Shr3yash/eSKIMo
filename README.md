@@ -34,7 +34,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/DrCybernotix/eSKIMo/blob/main/DemoImages/eSKIMo_Logo.png">
+  <a href="https://github.com/shr3yash//eSKIMo/blob/main/DemoImages/eSKIMo_Logo.png">
     <img src="DemoImages/eSKIMo_Logo.png" alt="Logo">
   </a>
 
@@ -43,14 +43,14 @@
   <p align="center">
     A text labelizing tool build using TensorFlow!
     <br />
-    <a href="https://github.com/eSKIMo/blob/main/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/shr3yash/eSKIMo/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/eSKIMo/blob/main/README.md">View Demo</a>
+    <a href="https://github.com/shr3yash/eSKIMo/blob/main/README.md">View Demo</a>
     ·
-    <a href="https://github.com/DrCybernotix/eSKIMo/issues">Report Bug</a>
+    <a href="https://github.com/shr3yash/eSKIMo/issues">Report Bug</a>
     ·
-    <a href="https://github.com/DrCybernotix/eSKIMo/issues">Request Feature</a>
+    <a href="https://github.com/shr3yash/eSKIMo/issues">Request Feature</a>
   </p>
 </div>
 
@@ -160,7 +160,7 @@ For TensorFlow 1.x, CPU and GPU packages are separate:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/DrCybernotix/BlackLabelizer.git
+   git clone https://github.com/DrCybernotix/eSKIMo.git
   
    ```
    
@@ -202,7 +202,7 @@ _For more examples, please refer to the (coming soon!) [Documentation](https://e
 - [ ] Add "components" document to easily copy & paste sections of the readme
 
 
-See the [open issues](https://github.com/DrCybernotix/BlackLabelizer/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/DrCybernotix/eSKIMo/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -240,7 +240,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Twitter/Email - [@DrCybernotix](https://twitter.com/DrCybernotix) - 12shreyashh@gmail.com
 
-Project Link: [BlackLabelizer](https://github.com/DrCybernotix/BlackLabelizer)
+Project Link: [eSKIMo](https://github.com/shr3yash/eSKIMo)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -264,16 +264,16 @@ The list of resources I found helpful whilst makingg this project and would like
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/DrCybernotix/BlackLabelizer.svg?style=for-the-badge
-[contributors-url]: https://github.com/DrCybernotix/BlackLabelizer/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/DrCybernotix/BlackLabelizer.svg?style=for-the-badge
-[forks-url]: https://github.com/DrCybernotix/BlackLabelizer/network/members
-[stars-shield]: https://img.shields.io/github/stars/DrCybernotix/BlackLabelizer.svg?style=for-the-badge
-[stars-url]: https://github.com/DrCybernotix/BlackLabelizer/stargazers
-[issues-shield]: https://img.shields.io/github/issues/DrCybernotix/BlackLabelizer?style=for-the-badge
-[issues-url]: https://github.com/DrCybernotix/BlackLabelizer/issues
-[license-shield]: https://img.shields.io/github/license/DrCybernotix/BlackLabelizer.svg?style=for-the-badge
-[license-url]: https://github.com/DrCybernotix/eSKIMo/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/shr3yash/eSKIMo.svg?style=for-the-badge
+[contributors-url]: https://github.com/shr3yash/eSKIMo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/shr3yash/eSKIMo.svg?style=for-the-badge
+[forks-url]: https://github.com/shr3yash/eSKIMo/network/members
+[stars-shield]: https://img.shields.io/github/stars/shr3yash/eSKIMo.svg?style=for-the-badge
+[stars-url]: https://github.com/shr3yash/eSKIMo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/shr3yash/eSKIMo?style=for-the-badge
+[issues-url]: https://github.com/shr3yash/eSKIMo/issues
+[license-shield]: https://img.shields.io/github/license/shr3yash/eSKIMo.svg?style=for-the-badge
+[license-url]: https://github.com/shr3yash/eSKIMo/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://in.linkedin.com/in/shreyash-bhatkar-5bb904194
 [product-screenshot]: images/screenshot.png
