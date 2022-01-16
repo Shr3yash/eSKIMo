@@ -150,12 +150,12 @@ Install TensorFlow with pip
   Older versions of TensorFlow
 For TensorFlow 1.x, CPU and GPU packages are separate:
 
-  * tensorflow==1.15 —Release for CPU-only
-  * tensorflow-gpu==1.15 —Release with GPU support (Ubuntu and Windows)
-System requirements
-  * Python 3.7–3.9
-  * Python 3.9 support requires TensorFlow 2.5 or later.
-  * Python 3.8 support requires TensorFlow 2.2 or later.
+       * tensorflow==1.15 —Release for CPU-only
+       * tensorflow-gpu==1.15 —Release with GPU support (Ubuntu and Windows)
+     System requirements
+       * Python 3.7–3.9
+       * Python 3.9 support requires TensorFlow 2.5 or later.
+       * Python 3.8 support requires TensorFlow 2.2 or later.
 
 
 1. Clone the repo
