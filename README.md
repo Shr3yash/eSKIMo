@@ -1,7 +1,8 @@
 
- eSKIMo
+<div align="center" id="top">
+ 
+ # eSKIMo
 
-<div id="top"></div>
 <!--
 *** Thanks for checking out. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -22,15 +23,16 @@
 -->
 
   
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Webpage][web]][web-url]
+ [![Contributors][contributors-shield]][contributors-url]
+ [![Forks][forks-shield]][forks-url]
+ [![Stargazers][stars-shield]][stars-url]
+ [![Issues][issues-shield]][issues-url]
+ [![MIT License][license-shield]][license-url]
+ [![LinkedIn][linkedin-shield]][linkedin-url]
+ [![Webpage][web]][web-url]
 
-  
+</div>
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
