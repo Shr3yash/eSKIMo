@@ -189,6 +189,8 @@ For TensorFlow 1.x, CPU and GPU packages are separate:
 
 Useful examples of how the model actually works and what does it do when provided costum inputs
 
+![image](https://github.com/user-attachments/assets/330a30d9-4aba-4b9f-a739-0bef32a1974b)
+
 _For more examples, please refer to the (coming soon!) [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
